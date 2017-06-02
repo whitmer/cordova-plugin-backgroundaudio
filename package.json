@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "name": "com.coughdrop.cordova.backgroundaudio",
+  "cordova_name": "Background Audio",
+  "description": "Apache Cordova Plugin to support background audio on iOS",
+  "license": "MIT",
+  "repo": "https://github.com/whitmer/cordova-plugin-backgroundaudio/tree/master",
+  "keywords": [
+    "cordova"
+  ],
+  "platforms": [
+    "ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
